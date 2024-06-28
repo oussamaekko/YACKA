@@ -1,0 +1,1 @@
+ C:\\Users\\Oussana\ Bouhamidi\\Desktop\\yacka_mobile\\.dart_tool\\flutter_build\\6c178449e1d2cff167ca5502ad10bcac\\native_assets.yaml: 
